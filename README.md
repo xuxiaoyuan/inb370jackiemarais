@@ -1,4 +1,5 @@
-inb370jackiemarais
-==================
+INB 370 Assignmnt 2
+===================
 
-IB370 Assignment 
+Marais - n8911495
+Jackie - n8818835
